@@ -1,7 +1,7 @@
 # paths to directories with images
-train: data/alpaca/images/train
-val: data/alpaca/images/validation
-test: data/alpaca/images/test
+train: ../data/alpaca/images/train
+val: ../data/alpaca/images/validation
+test: ../data/alpaca/images/test
 
 nc: 1  # number of classes
 names: ['alpaca']  # class names
