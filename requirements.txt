@@ -2,3 +2,4 @@ jupyter
 openimages
 scikit-learn
 matplotlib
+tensorboard
