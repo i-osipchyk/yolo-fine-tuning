@@ -163,8 +163,11 @@ cython_debug/
 
 # Project files
 data/
-yolov5/
 .DS_Store
 
-# excluded model results
-!yolov5/runs
+# Exclude everything in the yolov5 directory
+yolov5/*
+
+# Do not ignore the runs directory
+!yolov5/runs/
+!yolov5/runs/**
