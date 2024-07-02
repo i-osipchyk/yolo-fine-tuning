@@ -166,7 +166,7 @@ data/
 .DS_Store
 
 # Exclude everything in the yolov5 directory
-yolov5/*
+yolov5
 
 # Do not ignore the runs directory
 !yolov5/runs/
