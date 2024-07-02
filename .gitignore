@@ -169,5 +169,5 @@ data/
 yolov5
 
 # Do not ignore the runs directory
-!yolov5/runs/
-!yolov5/runs/**
+!/yolov5/runs/
+!/yolov5/runs/**
