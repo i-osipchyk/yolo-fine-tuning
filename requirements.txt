@@ -3,3 +3,4 @@ openimages
 scikit-learn
 matplotlib
 tensorboard
+albumentations
